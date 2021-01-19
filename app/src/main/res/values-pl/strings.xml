@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="author">Autor: Karol Grabczak</string>
+    <string name="projectName">Temat projektu: Kalkulator BMI</string>
+    <string name="buttonCalculateBmi">Oblicz swoje BMI</string>
+    <string name="textViewWeight">Twoja waga (kg):</string>
+    <string name="textViewHeight">Twój wzrost (m):</string>
+    <string name="buttonCountBMI">Oblicz swoje BMI</string>
+    <string name="app_name">Projekt zaliczeniowy</string>
+    <string name="textViewBmi">Twój wynik BMI</string>
+    <string name="textViewAboutBmi">Twój wynik BMI wskazuje na niedowagę</string>
+    <string name="textViewAboutBmi2">Twój wynik BMI wskazuje na nadwagę</string>
+</resources>

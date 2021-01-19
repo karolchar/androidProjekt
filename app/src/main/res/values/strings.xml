@@ -1,0 +1,12 @@
+<resources>
+    <string name="author">Author: Karol Grabczak</string>
+    <string name="projectName">Project name: BMI calculator</string>
+    <string name="buttonCalculateBmi">Calculate your BMI</string>
+    <string name="textViewWeight">Your weight (kg):</string>
+    <string name="textViewHeight">Your height (m):</string>
+    <string name="buttonCountBMI">Calculate your BMI</string>
+    <string name="app_name">Final project</string>
+    <string name="textViewBmi">Your BMI result</string>
+    <string name="textViewAboutBmi">Your BMI result indicates that you are underweight</string>
+    <string name="textViewAboutBmi2">Your BMI result indicates that you are overweight</string>
+</resources>
