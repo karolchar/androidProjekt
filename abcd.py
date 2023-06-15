@@ -16,3 +16,7 @@ def abc3():
 
 def abc4():
     pass
+
+
+def abc6():
+    pass
